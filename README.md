@@ -17,11 +17,9 @@ Commits should be prefixed with what they change in the project.
 </br>
 `fix: ` for fixes & patches
 </br>
-`dev: ` for commits during feature addition
+`add: ` for commits that add features
 </br>
-`add: ` for the last commit of adding a feature
-</br>
-`update: ` for commits that change a method already present
+`update: ` for commits that change a feature already present
 </br>
 `i18n: ` for commits that add or change the localization
 </br>
