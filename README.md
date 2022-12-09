@@ -13,7 +13,7 @@ This repo contains my personal contributing guidelines.
 
 ## Git Commits
 
-Commits should be prefixed with what they change in the project.
+Commits should be prefixed with what they change in the project. Present tense should be used within commit messages. 
 </br>
 `fix: ` for fixes & patches
 </br>
@@ -27,9 +27,13 @@ Commits should be prefixed with what they change in the project.
 </br>
 `build: ` for commits that build a new release or change building scripts
 </br>
+`test: ` for commits that add or change tests
+</br>
 `move: ` for commits that move files and change their in-project paths
 </br>
 `del: ` for commits that remove features
+</br>
+`style: ` for commits that fix formatting
 </br>
 `git: ` for git-related commits
 
